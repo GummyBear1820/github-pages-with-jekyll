@@ -17,3 +17,7 @@ Fundamentals of Neuroscience, Part 2:  offered by HarvardX: Self paced online co
 
 twitter_username: @AdhityaSriniva5
 github_username:  GummyBear1820
+
+![IMG_0132](https://user-images.githubusercontent.com/106937819/172659570-7f893be7-1410-438f-b338-70e39d344d53.PNG)
+
+
